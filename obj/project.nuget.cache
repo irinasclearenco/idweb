@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W//KLiCb9rNBFjx9yW9xhLi6ySjPIZChSMrZsxF8fZa6It/lEFP/w77LasYERoy9VzovNkDAubaxANcHhcbW4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hi-tech\\lab4idweb\\lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi-tech\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
