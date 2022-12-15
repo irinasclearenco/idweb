@@ -23,4 +23,3 @@ namespace lab4
                 });
     }
 }
-kkks
